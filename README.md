@@ -1,5 +1,6 @@
 # hello-world
-This is my first github repo!
 
-Adding first changes/commits to this repo
 
+Adding second changes/commits to this repo
+
+I added a third sentence.
